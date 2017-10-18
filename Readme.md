@@ -1,9 +1,10 @@
-Identificação da turma (ex: EIC1)
+Turma: EIC1; 
+Grupo: 25;
 
-Identificação do grupo (ex: Grupo 2)
+SCRUM Master: Miguel Machado, nº 68865;
+Developers: Rafael Cardoso, nº 68551; Miguel Moreira, nº 64618;
+Quality Manager: André Soares, nº 68753;
 
-Identificação do número, nome e papel de cada membro do grupo (ex: 12345, José Silva, Scrum Master)
+Variante do Projeto: AntiSpamConfigurationForProfessionalMailbox;
 
-Identificação da variante do projeto desenvolvida (ex: AntiSpamConfigurationForProfessionalMailbox)
-
-Link para um vídeo no youtube com a demonstração da aplicação final desenvolvida (ex: http://...)
+Link demonstração: 
